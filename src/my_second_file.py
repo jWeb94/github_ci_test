@@ -1,4 +1,6 @@
-"""Contains code under test for github_ci_test"""
+"""
+Contains code under test for github_ci_test
+"""
 
 def my_function_1(a, b):
     """

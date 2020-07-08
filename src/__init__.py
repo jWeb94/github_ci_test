@@ -1,1 +1,3 @@
-"""docstring of the __init__.py"""
+"""
+docstring of the __init__.py
+"""
