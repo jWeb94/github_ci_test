@@ -37,6 +37,6 @@ jobs:
     - name: Code coverage
       run: |
         pytest --cov-report term-missing --cov
-    - name: Pydocstyle
-      run: |
-        pydocstyle
+    #- name: Pydocstyle
+    #  run: |
+    #    pydocstyle
